@@ -65,13 +65,9 @@ SVD-based feature extraction for real-time lane detection
 ---
 
 ## 📫 Connect
-[
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+## Connect
 
-](https://www.linkedin.com/in/reema-hanim-h-6b8971312/)
-[
+[LinkedIn](https://www.linkedin.com/in/reema-hanim-h-6b8971312/)
 
-![Neurostars](https://img.shields.io/badge/Neurostars-binary69-blue)
-
-](https://neurostars.org/u/reemahanimh)
+[Neurostars](https://neurostars.org/u/reemahanimh)
