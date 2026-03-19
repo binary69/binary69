@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi there, I'm Reema 👋
 
-<!--
-**binary69/binary69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Second-year CS student passionate about ML, Computational Neuroscience & Open Source
 
-Here are some ideas to get you started:
+[
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+](https://github.com/binary69)
+
+---
+
+## 🧠 About Me
+- 🎓 BSc Computer Science @ Eastern University of Sri Lanka
+- 🔬 Currently contributing to **Experanto** for GSoC 2026 under INCF
+- 📐 Built SVD from scratch — fascinated by the math behind ML
+- 🌱 Exploring Computational Neuroscience + Computer Vision
+
+---
+
+## 🛠️ Skills
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
+
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+
+
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+
+
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+
+
+---
+
+## 🔬 Open Source — GSoC 2026
+Contributing to **[Experanto](https://github.com/sensorium-competition/experanto)** — a multimodal neural data alignment framework under INCF
+
+
+[#133](https://github.com/sensorium-competition/experanto/pull/133) - Ruff linting infrastructure + CI workflow | ✅ Merged 
+[#137](https://github.com/sensorium-competition/experanto/pull/137) - Bug fix: global time range in `Experiment` + 31 parametarized tests | 🔄 Under Review 
+
+---
+
+## 🚀 Projects
+**SVD Image Compression**
+Built from scratch using eigendecomposition of AᵀA — no `np.linalg.svd()` shortcuts
+`Python` `NumPy` `Matplotlib`
+
+**Lane Detection System** *(in progress)*
+SVD-based feature extraction for real-time lane detection
+`Python` `OpenCV` `NumPy`
+
+---
+
+## 📜 Certifications
+- Mathematics for Machine Learning — Coursera
+- Python for Everybody — University of Michigan, Coursera
+
+---
+
+## 📫 Connect
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)
+
+](https://www.linkedin.com/in/reema-hanim-h-6b8971312/)
+[
+
+![Neurostars](https://img.shields.io/badge/Neurostars-binary69-blue)
+
+](https://neurostars.org/u/reemahanimh)
