@@ -52,9 +52,9 @@ Contributing to **[Experanto](https://github.com/sensorium-competition/experanto
 Built from scratch using eigendecomposition of AᵀA — no `np.linalg.svd()` shortcuts
 `Python` `NumPy` `Matplotlib`
 
-**Lane Detection System** *(in progress)*
-SVD-based feature extraction for real-time lane detection
-`Python` `OpenCV` `NumPy`
+**Structure From Motion** *(in progress)*
+Building from scratch to get deeper understanding of the implementation process to utilize the algorithm effectively for future
+`Python`
 
 ---
 
