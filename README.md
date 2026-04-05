@@ -52,7 +52,7 @@ Building from scratch to get deeper understanding of the implementation process 
 ---
 
 ## 📜 Certifications
-- Mathematics for Machine Learning — Coursera
+- Mathematics for Machine Learning — Imperial College London, Coursera
 - Python for Everybody — University of Michigan, Coursera
 
 ---
