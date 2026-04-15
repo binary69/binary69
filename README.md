@@ -33,17 +33,14 @@
 ## 🔬 Open Source — GSoC 2026
 Contributing to **[Experanto](https://github.com/sensorium-competition/experanto)** — a multimodal neural data alignment framework under INCF
 
-issue: .[#129](https://github.com/sensorium-competition/experanto/issues/129)
-
+.[issue](https://github.com/sensorium-competition/experanto/issues/129): 
 [#133](https://github.com/sensorium-competition/experanto/pull/133) - Ruff linting infrastructure + CI workflow | ✅ Merged 
 
 
-issue: .[#134](https://github.com/sensorium-competition/experanto/issues/134)
-
+.[issue](https://github.com/sensorium-competition/experanto/issues/134): 
 [#137](https://github.com/sensorium-competition/experanto/pull/137) - Bug fix: global time range in `Experiment` + 31 parametarized tests | ✅ Merged 
 
-
-issue: .[#160](https://github.com/sensorium-competition/experanto/issues/129)
+.[issue](https://github.com/sensorium-competition/experanto/issues/129)
 
 ---
 
