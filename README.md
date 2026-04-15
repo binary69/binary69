@@ -40,7 +40,8 @@ Contributing to **[Experanto](https://github.com/sensorium-competition/experanto
 [issue](https://github.com/sensorium-competition/experanto/issues/134): 
 [#137](https://github.com/sensorium-competition/experanto/pull/137) - Bug fix: global time range in `Experiment` + 31 parametarized tests | ✅ Merged 
 
-[issue](https://github.com/sensorium-competition/experanto/issues/129): #160
+[issue](https://github.com/sensorium-competition/experanto/issues/129):
+[#161](https://github.com/sensorium-competition/experanto/pull/161) - Bug fix: linear-interpolation + tests 
 
 ---
 
