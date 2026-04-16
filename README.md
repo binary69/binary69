@@ -8,8 +8,8 @@
 ## 🧠 About Me
 - 🎓 BSc Computer Science @ Eastern University of Sri Lanka (Second Year)
 - 🔬 Currently contributing to **Experanto** for GSoC 2026 under INCF
-- 📐 Built SVD from scratch — fascinated by the math behind ML
-- 🌱 Exploring Computational Neuroscience + Computer Vision
+- 📐 Built SVD from scratch (to understand the math)
+- 🌱 Exploring Computational Neuroscience, Computer Vision
 
 ---
 
